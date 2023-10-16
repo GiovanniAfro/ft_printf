@@ -18,4 +18,4 @@ Why is it Useful:
 
 Overall, the "ft_printf" project at 42 is a valuable learning experience that covers variadic functions, code structure, and integration with a custom library. It equips students with the skills they need for more advanced programming tasks and real-world software development.
 
-![](nome_del_file.gif)
+![](giphy.gif)
