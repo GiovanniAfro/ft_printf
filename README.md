@@ -1,7 +1,7 @@
 # ft_printf
 Recreate printf() in C with ft_printf(). Learn variadic functions, code structure, and enhance Libft. Ideal next step after 'Libft' project.
 The "ft_printf" project at 42 involves recreating the functionality of the printf() function in C. Students must create their own version of printf(), known as ft_printf(), to learn about handling variable numbers of arguments (variadic functions) and improve their programming skills.
-
+ 
 Why is it Useful:
 
     Variadic Functions: This project introduces students to variadic functions in C, a crucial concept for many programming tasks. They learn how to handle a variable number of arguments, which is essential for functions like printf().
